@@ -26,7 +26,7 @@ h6 {
 h1 {
     font-size: 80px;
     font-weight: bold;
-    margin-top: 80px;
+    margin-top: 20px;
     text-align: left;
     color: #202327;
 }
@@ -88,13 +88,13 @@ p {
 .like-btn {
     background: 0%;
     position: relative;
-    color: #202327;
+    color: #ffffff;
     font-size: 14px;
     font-weight: bold;
     text-align: center;
-    height: 40px;
-    padding-left: 16px;
-    padding-right: 16px;
+    height: 42px;
+    padding-left: 18px;
+    padding-right: 18px;
     border: 0px;
     transition: all 0.14s;
     border-radius: 2px 2px 2px 2px;
@@ -171,14 +171,14 @@ input:hover {
 
 .bubbly-button {
     display: inline-block;
-    background-color: #F7F9FA;
+    background-color: #202327;
     border-radius: 4px;
-    margin-left: 12px;
-    margin-top: 5px;
+    margin-left: 0px;
+    margin-top: 60px;
     border: none;
     cursor: pointer;
     position: relative;
-    transition: all 0.14s;
+    transition: all 0.16s;
 }
 
 button {
@@ -186,8 +186,8 @@ button {
 }
 
 .bubbly-button:active {
-    transform: scale(0.92);
-    background-color: #F4F6F7;
+    transform: scale(0.9);
+    background-color: #202327;
 }
 
 .annotation {
