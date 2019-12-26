@@ -181,10 +181,6 @@ input:hover {
     transition: all 0.16s;
 }
 
-button {
-    outline: none;
-}
-
 .bubbly-button:active {
     transform: scale(0.9);
     background-color: #202327;
@@ -927,11 +923,11 @@ Blog section
     line-height: 40px;
     right: -100px;
     color: #fff;
-    background-color: #3A4249
+    background-color: #202327
 }
 
 .scroll-top:hover {
-    background-color: #202327;
+    background-color: #3A4249;
     -webkit-transform: translateY(-1px);
     transform: translateY(-1px);
     transition: all .4s ease-in-out;
@@ -1003,10 +999,6 @@ Mobile Responsive
         text-align: left;
         color: #202327;
         width: 100%;
-    }
-    input {
-        overflow: hidden;
-        display: none;
     }
     svg:not(:root) {
         overflow: hidden;
