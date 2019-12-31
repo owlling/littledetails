@@ -47,16 +47,16 @@ h3 {
 }
 
 h4 {
-    color: #A8B2BA;
-    font-size: 16px;
-    font-weight: 400;
+    color: #202327;
+    font-size: 18px;
+    font-weight: bold;
     line-height: 28px;
     letter-spacing: 0.5px;
     text-align: left;
 }
 
 h5 {
-    color: #A8B2BA;
+    color: #202327;
     font-size: 18px;
     font-weight: bold;
     line-height: 18px;
@@ -93,8 +93,8 @@ p {
     font-weight: bold;
     text-align: center;
     height: 42px;
-    padding-left: 18px;
-    padding-right: 18px;
+    padding-left: 16px;
+    padding-right: 16px;
     border: 0px;
     transition: all 0.14s;
     border-radius: 2px 2px 2px 2px;
