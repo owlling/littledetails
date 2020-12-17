@@ -992,6 +992,7 @@ Mobile Responsive
         font-size: 22px;
         line-height: 44px;
     }
+
     .quote {
         font-size: 56px;
         font-weight: bold;
@@ -1000,6 +1001,12 @@ Mobile Responsive
         color: #202327;
         width: 100%;
     }
+
+    .navbar-default .navbar-toggle .icon-bar {
+    overflow: hidden;
+        display: none;
+    }
+
     svg:not(:root) {
         overflow: hidden;
         display: none;
